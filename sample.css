@@ -4,10 +4,23 @@
 }
 
 h1 {
+  color: blue;
   background-color: rgb(179, 179, 179);
   text-align: center;
 }
 
-h2 {
+.sample, .sub-title {
+  color: blueviolet;
+}
 
+.px {
+  font-size: 30px;
+}
+
+.vw {
+  font-size: 30px;
+}
+
+.rem {
+  font-size: 4rem;
 }
