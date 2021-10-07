@@ -1,6 +1,7 @@
 * {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   background-color: rgb(153, 188, 252);
+  margin: 0;
 }
 
 h1 {
@@ -9,18 +10,7 @@ h1 {
   text-align: center;
 }
 
-.sample, .sub-title {
-  color: blueviolet;
-}
-
-.px {
-  font-size: 30px;
-}
-
-.vw {
-  font-size: 30px;
-}
-
-.rem {
-  font-size: 4rem;
+p {
+  font-size: 24px;
+  color: blue;
 }
