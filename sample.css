@@ -10,13 +10,9 @@ h1 {
   text-align: center;
 }
 
-h2 {
-  color: red;
-}
-
-ul {
+.content {
   color: blueviolet;
-  font-size: 2rem;
+  font-size: 24px;
 }
 
 p {
