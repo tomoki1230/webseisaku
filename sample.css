@@ -1,5 +1,4 @@
 * {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   background-color: rgb(153, 188, 252);
   margin: 0;
 }
@@ -8,6 +7,30 @@ h1 {
   color: blue;
   background-color: rgb(179, 179, 179);
   text-align: center;
+}
+
+span {
+  font-size: .5em;
+}
+
+.lighter {
+  font-weight: lighter;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.serif {
+  font-family: serif;
+}
+
+.times {
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.after-text {
+  color: brown;
 }
 
 .content {
